@@ -1,0 +1,24 @@
+body {
+    position: relative;
+    font-family: 'SFUIText', sans-serif;
+    color: #f0ede6;
+    background-color: #292929;
+    font-size: 150%;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    min-height: 100vh;
+    overflow: overlay;
+}
+
+.center-contents {
+    width: 100vw;
+    margin: auto;
+}
+
+.big-img {
+    width: 100%;
+    height: 100%;
+    background: no-repeat 50% 0%;
+    background-size: contain;
+}
